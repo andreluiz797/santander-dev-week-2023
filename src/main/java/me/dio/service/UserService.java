@@ -6,5 +6,5 @@ public interface UserService {
 
     User findById(Long id);
 
-    User create(User userToCrete);
+    User create(User userToCreate);
 }
